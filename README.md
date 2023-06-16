@@ -21,4 +21,13 @@ The best game in my opinion is "ELDEN RING" made by FromSoftware.
 Add one of the your best game to the list below.  
 
 # List of Game
-- Minecraft
+1. Minecraft
+2. 
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10

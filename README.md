@@ -18,3 +18,4 @@ To complete the assignment, please do the following:
 # Company-Collection
 Goal - I want to know the companies you want to work 
 # List of Hobby
+- SONY

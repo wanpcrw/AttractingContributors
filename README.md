@@ -16,8 +16,8 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Game-collection)
-Goal - I want contributors to help me list some of the best video games.
-The best game in my opinion is "ELDEN RING" made by FromSoftware. 
-Add one of the your best game to the list below.
+Goal - I want contributors to help me list some of the best video games.:
+The best game in my opinion is "ELDEN RING" made by FromSoftware. :
+Add one of the your best game to the list below.:
 
 # List of Game

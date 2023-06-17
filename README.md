@@ -4,6 +4,7 @@ Please tell me about your hometown!
 - Oita, Beppu-city
 
 # List of hometown
+
 1. Tokyo
 2. Mom's body!!!!!!
 3. Osaka, Suita

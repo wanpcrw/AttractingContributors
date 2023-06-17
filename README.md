@@ -8,3 +8,4 @@ Please tell me about your hometown!
 2.Mom's body!!!!!!  
 3.Shimane, Matsue-city  
 4.Osaka, Suita  
+5.Kyoto  

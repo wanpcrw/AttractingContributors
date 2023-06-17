@@ -1,19 +1,17 @@
-#Interest   : Games 
+# Where are you from?
+Please tell me about your hometown!  
+```Prefecture, City```  
+- Oita, Beppu-city
 
-
-# List of Hobby
-Please tell me your favourite game 
-1. Valorant 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-
-
+# List of hometown
+1.　Tokyo  
+2.　Mom's body!!!!!!  
+3.　Shimane, Matsue-city  
+4.　Osaka, Suita  
+5.　Kyoto  
+6. Okinawa  
+7. Tokyo  
+8. UK
+9.  
+10.  
 

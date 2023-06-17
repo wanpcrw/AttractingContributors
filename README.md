@@ -25,8 +25,8 @@ Add one of the your best game to the list below.
 2. FIFA
 3. Overwatch
 4. Valorant
-5.
-6.
+5. Suikoden
+6. Blue Archive
 7.
 8.
 9.

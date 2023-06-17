@@ -11,7 +11,6 @@ Please tell me about your hometown!
 5.　Kyoto  
 6. Okinawa  
 7. Tokyo  
-8. UK
+8. UK  
 9.  
 10.  
-

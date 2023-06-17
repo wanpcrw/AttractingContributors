@@ -9,7 +9,7 @@ Please tell me about your hometown!
 3.　Shimane, Matsue-city  
 4.　Osaka, Suita  
 5.　Kyoto  
-6.  
+6. Okinawa  
 7.  
 8.  
 9.  

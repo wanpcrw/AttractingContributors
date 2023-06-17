@@ -1,17 +1,15 @@
+# Attracting Contributors
+As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
-# Tell me your favorite game!!!
-Welcome I want to know your favorite game.
+# What is your favorite rock band? -- Please write your choice band below
 
-
-# List of Movies
-## Example
-1.  Apex
-2.  FGO
-## Please write down here
-1. Apex
-2. Mario Kart
-3. Mahjang
-4. ROV
-
-
-
+1. ONE OK ROCK
+2. Eminem
+3. RADWIMPS
+4. Bodyslam
+5.
+6.
+7.
+8.
+9.
+10.

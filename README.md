@@ -5,7 +5,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 1. ONE OK ROCK
 2. Eminem
-3. 
+3. RADWIMPS
 4.
 5.
 6.

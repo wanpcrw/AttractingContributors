@@ -3,7 +3,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 
 # What is your favorite rock band? -- Please write your choice band below
 
-1.
+1. ONE OK ROCK
 2.
 3. 
 4.

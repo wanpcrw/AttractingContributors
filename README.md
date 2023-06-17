@@ -5,5 +5,7 @@ Please tell me about your hometown!
 
 # List of hometown
 1.Tokyo  
-2.Mom's body!!!!!!
-3.Kyoto
+2.Mom's body!!!!!!  
+3.Shimane, Matsue-city  
+4.Osaka, Suita  
+5.Kyoto  

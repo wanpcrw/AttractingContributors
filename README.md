@@ -10,7 +10,7 @@ Please tell me about your hometown!
 4.　Osaka, Suita  
 5.　Kyoto  
 6. Okinawa  
-7.  
+7. Tokyo  
 8.  
 9.  
 10.  

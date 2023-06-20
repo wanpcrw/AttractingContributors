@@ -29,12 +29,12 @@ Please tell me your favourite game
 3. Overwatch  
 4. FIFA
 5. Blue Archive
-6. Temple Run
-7.
-8.
-9.
-10.
-11.
+6. Legend of Zelda Tears of the kingdom
+7. Mariokart
+8. ELDEN RING
+9. Dead by Daylight
+10.Super Smash Bros. Ultimate
+11.Temple Run
 
 
 

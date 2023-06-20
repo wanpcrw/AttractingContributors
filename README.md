@@ -32,7 +32,7 @@ Please tell me your favourite game
 6. Legend of Zelda Tears of the kingdom
 7. Mariokart
 8. ELDEN RING
-9.
+9. Dead by Daylight
 10.
 11.
 

@@ -30,8 +30,8 @@ Please tell me your favourite game
 4. FIFA
 5. Blue Archive
 6. Legend of Zelda Tears of the kingdom
-7.
-8.
+7. Mariokart
+8. ELDEN RING
 9.
 10.
 11.

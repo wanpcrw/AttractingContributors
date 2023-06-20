@@ -29,8 +29,8 @@ Please tell me your favourite game
 3. Overwatch  
 4. FIFA
 5. Blue Archive
-6. ELDEN RING
-7.
+6. Mariokart
+7. ELDEN RING
 8.
 9.
 10.

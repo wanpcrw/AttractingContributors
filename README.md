@@ -33,8 +33,8 @@ Please tell me your favourite game
 7. Mariokart
 8. ELDEN RING
 9. Dead by Daylight
-10.Super Smash Bros. Ultimate
-11.Temple Run
+10. Super Smash Bros. Ultimate
+11. Temple Run
 12. BLUE PROTOCOL
 
 

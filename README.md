@@ -20,3 +20,4 @@ Goal - I want to know the companies you want to work
 # List of Hobby
 
 Docomo
+- SONY

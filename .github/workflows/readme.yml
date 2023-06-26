@@ -1,0 +1,33 @@
+name: Test README Only
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  test_readme_only:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: fetch origin github.base_ref
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Check if README.md was modified
+        id: readme_changed
+        run: |
+          file=$(git diff --name-only origin/${{ github.base_ref }}..origin/${{ github.head_ref }})
+          file="${file//$'\n'/\\n}"
+          echo "changed=$file" >> $GITHUB_OUTPUT
+
+      - name: Check README Only
+        run: |
+          if [[ "${{ steps.readme_changed.outputs.changed }}" == "README.md" ]]; then
+            echo "Only README.md file was modified."
+          else
+            echo "README.md file was not the only modified file."
+            exit 1
+          fi

@@ -1,42 +1,47 @@
-# Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+# good restaurants near naist
 
-# Rules
+I'm looking for some awesome food spots around NAIST. If you know any cool places that are easily accessible by train, please drop their names and let us know which train station is closest. By the way, I can't drive, I'm also seeking cool people who can give me a ride there. I welcome Pull Requests!
 
-1. Please choose a hobby or some interest that you want to build your repository
-2. Make a README to announce this theme (i.e., my favourite video games or anime)
-3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
-4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
+## 🍣
 
-# Requirements
-To complete the assignment, please do the following:
-1. Fork this project and then rename the title to your hobby. 
-2. Announce the new project and try to attract other members.
-3. Make 10 Pull Request contributions to other projects
-4. Merge 10 Pull Requests into your forked Project.
+- a sushiro
+- a
+- a
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+## 🍜
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+- a
+- a
+- a
 
+## 🥩
 
-#Interest: Games 
-# List of Hobby
-Please tell me your favourite game 
-1. Valorant 
-2. Mobile Legends: Bang Bang
-3. Overwatch  
-4. FIFA
-5. Blue Archive
-6. Legend of Zelda Tears of the kingdom
-7. Mariokart
-8. ELDEN RING
-9. Dead by Daylight
-10. Super Smash Bros. Ultimate
-11. Temple Run
-12. BLUE PROTOCOL
+- a
+- a
+- a
 
+## 🍻
 
+- Suzaku
+- a
+- a
 
+## 🍔
 
+- a
+- a
+- a
+
+## 🍕
+
+- a
+- a
+- a
+
+## others
+
+- Kyoto Nishiki Warai (Okonomiyaki) / Gakken Nara Tomigaoka 
+- a
+- a
+- a
+- a

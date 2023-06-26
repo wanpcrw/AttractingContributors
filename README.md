@@ -40,7 +40,7 @@ I'm looking for some awesome food spots around NAIST. If you know any cool place
 
 ## others
 
-- a
+- Kyoto Nishiki Warai (Okonomiyaki) / Gakken Nara Tomigaoka 
 - a
 - a
 - a

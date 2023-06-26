@@ -22,7 +22,7 @@ I'm looking for some awesome food spots around NAIST. If you know any cool place
 
 ## 🍻
 
-- a
+- Suzaku
 - a
 - a
 
